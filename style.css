@@ -1,0 +1,8 @@
+.delete{
+    color: red;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.delete:hover{
+    background-color: yellow;
+}
